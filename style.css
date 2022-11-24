@@ -1,0 +1,15 @@
+h1 {
+    color: palevioletred;
+    font-family: 'Lucida Sans', sans-serif;
+}
+
+body {
+    background-color: lightblue;
+}
+
+.recipebox {
+    background-color: palevioletred;
+    font-weight: bold;
+    font-family: 'Lucida Sans', sans-serif;
+    font-size: 20px;
+}
